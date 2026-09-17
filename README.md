@@ -7,6 +7,7 @@ A data analysis project simulating a real-world consulting engagement: analyzing
 ![Power BI](https://img.shields.io/badge/Dashboard-Power%20BI-yellow)
 
 ---
+### 📥 [Download Interactive Dashboard (.pbix)](https://1drv.ms/u/c/cb2e2318a767a21f/IQAAJAcBjpwNSLyERrrN532zAUxkYj9rX-gkHPXWIM9S6Oc?e=7beD2u)
 
 ## 📌 Project Background
 
