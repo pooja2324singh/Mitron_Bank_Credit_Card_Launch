@@ -85,7 +85,7 @@ An interactive 2-page Power BI dashboard was built for the Mitron Bank strategy 
 - A ranked, filterable table of highest-value customer segments
 - Cross-filtering slicers (city, age group, occupation, gender)
 
-> 📸 *Add dashboard screenshots here*
+
 
 ## 🙋 About This Project
 
